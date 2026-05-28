@@ -12,7 +12,7 @@
 <a href="https://instagram.com/_.gaathaaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.gaathaaaa_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaathapatel07&show_icons=true&locale=en&layout=compact" alt="gaathapatel07" /></p>
