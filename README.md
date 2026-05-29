@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gaatha Patel</h1>
+<h1 align="center">Hi , I'm Gaatha Patel</h1>
 
 <p align="center">
 Computer Science Student • Data Analytics Enthusiast • Problem Solver
