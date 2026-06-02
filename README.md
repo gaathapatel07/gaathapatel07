@@ -1,47 +1,98 @@
-<h1 align="center">Hi , I'm Gaatha Patel</h1>
+<h1 align="center">Gaatha Patel</h1>
 
 <p align="center">
-Computer Science Student • Data Analytics Enthusiast • Problem Solver
+Computer Science Student | Data Analytics Enthusiast | Aspiring Software Engineer
 </p>
 
 <p align="center">
-Passionate about using data and technology to solve real-world problems. I enjoy building projects, analyzing datasets, uncovering insights, and continuously learning new technologies.
+Passionate about transforming data into actionable insights and building technology-driven solutions that solve real-world problems.
 </p>
 
 ---
 
 ## About Me
 
-* Computer Science student at NMIMS MPSTME
-* Interested in Data Analytics, AI, Machine Learning, and Software Development
-* Building practical projects to strengthen analytical and technical skills
-* Exploring how technology can create meaningful impact in business and everyday life
-* Always learning, experimenting, and improving
+* Third-year B.Tech Computer Science student at NMIMS MPSTME
+* Interested in Data Analytics, Machine Learning, Business Intelligence, and Software Development
+* Building practical projects focused on analytics, automation, and user-centric applications
+* Continuously improving problem-solving, programming, and data-driven decision-making skills
+* Exploring the intersection of technology, business, and human behavior
 
-## Tech Stack
+---
 
-<p>
+## Technical Skills
+
+### Programming Languages
+
+* Python
+* SQL
+* C++
+
+### Data Analytics & Visualization
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Microsoft Excel
+
+### Databases
+
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&perline=6" />
 </p>
 
-**Languages:** Python • SQL • C++
-
-**Data Analytics:** Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel
-
-**Tools:** Git • GitHub • VS Code • Jupyter Notebook • MySQL
+---
 
 ## Current Focus
 
-* Data Analytics Projects
+* Data Analytics and Business Intelligence
 * Machine Learning Fundamentals
-* Business Intelligence & Dashboarding
-* Problem Solving
+* End-to-End Data Projects
+* Full-Stack Development
+* Problem Solving and DSA
+
+---
 
 ## Featured Projects
 
-* Retail Sales Performance Analysis
-* Netflix Content Analysis Dashboard
-* Real-world Analytics Projects
+### Hooked: Attention Economy Analytics
+
+Behavioral analytics project analyzing Netflix and Spotify consumption patterns, user engagement, and attention-retention trends through advanced data storytelling and visualization.
+
+### ShopifyIQ
+
+SaaS analytics platform designed to help e-commerce businesses track performance, monitor key metrics, and generate actionable business insights.
+
+### Mood-Based Study Music Recommender
+
+Machine learning-powered recommendation system that suggests personalized study music based on mood, task type, and energy levels.
+
+### Retail Sales Performance Analysis
+
+Data analytics project focused on identifying sales trends, customer behavior patterns, and business growth opportunities.
+
+---
+
+## Goals for 2026
+
+* Build industry-level analytics projects
+* Strengthen machine learning and AI foundations
+* Contribute to open-source projects
+* Secure opportunities in Data Analytics or Software Development
+* Develop solutions that create measurable business impact
+
+---
 
 ## Connect With Me
 
