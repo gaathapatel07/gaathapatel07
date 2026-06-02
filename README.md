@@ -18,6 +18,7 @@ Passionate about transforming data into actionable insights and building analyti
 * Continuously improving problem-solving, programming, and analytical skills
 * Exploring how data can be used to understand behavior, optimize processes, and drive business growth
 
+
 ---
 
 ## Technical Skills
