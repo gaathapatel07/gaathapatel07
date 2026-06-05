@@ -66,11 +66,7 @@ Passionate about transforming data into actionable insights and building analyti
 ---
 
 
-##  GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaathapatel07&hide_border=true" />
-</p>
 
 ## Contribution Graph
 
