@@ -64,10 +64,12 @@ Passionate about transforming data into actionable insights and building analyti
 * Building Real-World Analytics Projects
   
 ---
+
+
 ##  GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaathapatel07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gaathapatel07&hide_border=true" />
 </p>
 
 ## Contribution Graph
@@ -80,8 +82,9 @@ Passionate about transforming data into actionable insights and building analyti
   <img src="https://komarev.com/ghpvc/?username=gaathapatel07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
-## Connect With Me
 
+
+## Connect with Me 
 LinkedIn: [www.linkedin.com/in/gaatha-patel-938597296](http://www.linkedin.com/in/gaatha-patel-938597296)
 
 Email: [gaathapatel2005@gmail.com](mailto:gaathapatel2005@gmail.com)
