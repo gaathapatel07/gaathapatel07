@@ -64,24 +64,6 @@ Passionate about transforming data into actionable insights and building analyti
 * Building Real-World Analytics Projects
 
 ---
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gaathapatel07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaathapatel07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaathapatel07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ## Connect With Me
 
 LinkedIn: [www.linkedin.com/in/gaatha-patel-938597296](http://www.linkedin.com/in/gaatha-patel-938597296)
