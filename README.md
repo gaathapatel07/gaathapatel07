@@ -65,7 +65,9 @@ Passionate about transforming data into actionable insights and building analyti
   
 ---
 
+## Test
 
+![GitHub Streak](https://streak-stats.demolab.com?user=gaathapatel07)
 
 
 ## Contribution Graph
