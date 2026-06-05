@@ -63,24 +63,8 @@ Passionate about transforming data into actionable insights and building analyti
 * Exploratory Data Analysis (EDA)
 * Building Real-World Analytics Projects
   
+
 ---
-
-## Test
-
-![](https://streak-stats.demolab.com?user=gaathapatel07)
-
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaathapatel07&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaathapatel07&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
----
-
 
 ## Connect with Me 
 LinkedIn: [www.linkedin.com/in/gaatha-patel-938597296](http://www.linkedin.com/in/gaatha-patel-938597296)
