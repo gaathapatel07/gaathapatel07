@@ -12,6 +12,7 @@ Passionate about transforming data into actionable insights, building intelligen
 
 ## About Me
 
+
 * Final-Year B.Tech Computer Science student at NMIMS MPSTME
 * Interested in Data Analytics, Data Science, Machine Learning, and Business Intelligence
 * Building data-driven solutions that combine analytics, visualization, predictive modeling, and machine learning
