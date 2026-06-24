@@ -123,6 +123,10 @@ Behavioral Analytics & Engagement Intelligence project exploring user retention,
 ## GitHub Statistics
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaathapatel07&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaathapatel07&layout=compact&hide_border=true" height="165"/>
+</p>
 ---
 ## Connect with Me
 
