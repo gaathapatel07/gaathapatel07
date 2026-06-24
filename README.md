@@ -129,7 +129,6 @@ Behavioral Analytics & Engagement Intelligence project exploring user retention,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaathapatel07&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaathapatel07&show_icons=true&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaathapatel07&layout=compact&hide_border=true" height="165"/>
