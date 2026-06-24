@@ -120,7 +120,18 @@ Behavioral Analytics & Engagement Intelligence project exploring user retention,
 * Decision Intelligence
 
 ---
+## GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaathapatel07&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaathapatel07&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaathapatel07&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
 ## Connect with Me
 
 LinkedIn: [www.linkedin.com/in/gaatha-patel-938597296](http://www.linkedin.com/in/gaatha-patel-938597296)
