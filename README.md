@@ -1,5 +1,6 @@
 <h1 align="center">Gaatha Patel</h1>
 
+
 <p align="center">
 Computer Science Engineer | Data Analytics | Data Science | Machine Learning
 </p>
