@@ -40,7 +40,7 @@ Passionate about transforming data into actionable insights, building intelligen
 * Matplotlib
 * Seaborn
 * Plotly
-* Power BI
+* Power BI 
 * Microsoft Excel
 * Data Visualization
 * Exploratory Data Analysis (EDA)
