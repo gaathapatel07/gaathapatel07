@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Computer Science Engineer | Data Analytics | Data Science | Machine Learning
+Computer Science Engineer  | Data Analytics | Data Science | Machine Learning
 </p>
 
 <p align="center">
