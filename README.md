@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Computer Science Engineer  | Data Analytics | Data Science | Machine Learning
+Computer Science Engineer | Data Analytics | Data Science | Machine Learning
 </p>
 
 <p align="center">
@@ -12,8 +12,7 @@ Passionate about transforming data into actionable insights, building intelligen
 
 ---
 
-## About Me
-
+## About Me 
 
 * Final-Year B.Tech Computer Science student at NMIMS MPSTME
 * Interested in Data Analytics, Data Science, Machine Learning, and Business Intelligence
